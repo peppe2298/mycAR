@@ -1,0 +1,29 @@
+ [
+     {
+        "id":11001,
+        "name":"Camaro RS",
+        "price":500000.00,
+        "brand": "Chevrolet",
+        "description": "La più bella Camaro mai vista in realtà aumentata",
+        "image_name":"Camaro",
+        "ARFile":"AR_Camaro"
+     },
+     {
+        "id":11002,
+        "name":"Challenger SRT8",
+        "price":500000.00,
+        "brand": "Dodge",
+        "description": "Stupendo dogde degli anni 2000 in poliuretano espanso",
+        "image_name":"Challenger_STR8",
+        "ARFile":"AR_Challenger_STR8"
+     },
+     {
+        "id":11003,
+        "name":"Mustang 1965",
+        "price":550000.00,
+        "brand": "Ford",
+        "description": "Nel '65, probabilmente il sogno americano su ruote",
+        "image_name":"Mustang_1965",
+        "ARFile":"AR_Mustang_1965"
+     },
+  ]

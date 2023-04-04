@@ -1,0 +1,38 @@
+[
+   {
+      "id":10001,
+      "name":"Enzo Ferrari",
+      "price":400000.00,
+      "brand": "Ferrari",
+      "description": "La più iconica delle ferrari mai avute al mondo",
+      "image_name":"Enzo_Ferrari",
+      "ARFile":"AR_Enzo_Ferrari"
+   },
+   {
+      "id":10002,
+      "name":"308 GTS",
+      "price":1.00,
+      "brand": "Ferrari",
+      "description": "La meno iconica delle ferrari mai avute al mondo",
+      "image_name":"308_GTS",
+      "ARFile":"AR_308_GTS"
+   },
+   {
+      "id":10003,
+      "name":"Gallardo",
+      "price":300000.00,
+      "brand": "Lamborghini",
+      "description": "Un auto futuristica direttamente dal passato",
+      "image_name":"Gallardo",
+      "ARFile":"AR_Gallardo"
+   },
+   {
+      "id":10004,
+      "name":"Countach",
+      "price":100000.00,
+      "brand": "Lamborghini",
+      "description": "Intramontabile e sempre attraente",
+      "image_name":"Countach",
+      "ARFile":"AR_Countach"
+   },
+]

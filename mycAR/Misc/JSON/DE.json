@@ -1,0 +1,38 @@
+[
+    {
+       "id":13001,
+       "name":"R8",
+       "price":600000.00,
+       "brand": "Audi",
+       "description": "Non sa fare le curve",
+       "image_name":"R8",
+       "ARFile":"AR_R8"
+    },
+    {
+       "id":13002,
+       "name":"AMG GT",
+       "price":600000.00,
+       "brand": "Mercedes",
+       "description": "Non sa fare le curve",
+       "image_name":"AMG_GT",
+       "ARFile":"AR_AMG_GT"
+    },
+    {
+       "id":13003,
+       "name":"911 Turbo",
+       "price":700000.00,
+       "brand": "Porche",
+       "description": "Un pezzo di storia a 4 ruote",
+       "image_name":"911_Turbo",
+       "ARFile":"AR_911_Turbo"
+    },
+    {
+       "id":13004,
+       "name":"Carrera GT",
+       "price":350000.00,
+       "brand": "Porche",
+       "description": "L'auto più desiderata del 2003",
+       "image_name":"Carrera_GT",
+       "ARFile":"AR_Carrera_GT"
+    },
+]

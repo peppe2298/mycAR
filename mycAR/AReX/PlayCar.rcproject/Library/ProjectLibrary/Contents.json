@@ -1,0 +1,17 @@
+[
+  {
+    "libraryIdentifier" : "e84c3e9d6aae2329c348fb4d00e2c782",
+    "format" : "model",
+    "displayName" : "TankBase.usdz"
+  },
+  {
+    "libraryIdentifier" : "95f537f8ff5e9508cb86ed26ccb94ed0",
+    "format" : "model",
+    "displayName" : "TankCockpit.usdz"
+  },
+  {
+    "libraryIdentifier" : "d61c1698ca17572be04899ca0e8dffde",
+    "format" : "model",
+    "displayName" : "ferrari 308.usdz"
+  }
+]

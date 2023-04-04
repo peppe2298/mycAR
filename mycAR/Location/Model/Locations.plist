@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>city</key>
+		<string>Italia</string>
+		<key>state</key>
+		<string>IT</string>
+		<key>latitude</key>
+		<real>41.89143881321377</real>
+		<key>longitude</key>
+		<real>12.49227788827896</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Svezia</string>
+		<key>state</key>
+		<string>SE</string>
+		<key>latitude</key>
+		<real>59.32069310434445</real>
+		<key>longitude</key>
+		<real>18.08607823709196</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Stati Uniti</string>
+		<key>state</key>
+		<string>US</string>
+		<key>latitude</key>
+		<real>38.8978766771795</real>
+		<key>longitude</key>
+		<real>-77.03650834394264</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Germania</string>
+		<key>state</key>
+		<string>DE</string>
+		<key>latitude</key>
+		<real>48.16188723225404</real>
+		<key>longitude</key>
+		<real>11.50316879177321</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Regno Unito</string>
+		<key>state</key>
+		<string>UK</string>
+		<key>latitude</key>
+		<real>51.51140357903581</real>
+		<key>longitude</key>
+		<real>-0.0759950436864794</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Giappone</string>
+		<key>state</key>
+		<string>JP</string>
+		<key>latitude</key>
+		<real>35.7224467993605</real>
+		<key>longitude</key>
+		<real>139.7977479472808</real>
+	</dict>
+</array>
+</plist>

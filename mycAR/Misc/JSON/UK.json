@@ -1,0 +1,20 @@
+[
+    {
+       "id":12001,
+       "name":"DBS",
+       "price":600000.00,
+       "brand": "Aston Martin",
+       "description": "Aston martin extra lusso in ferro battuto",
+       "image_name":"DBS",
+       "ARFile":"AR_DBS"
+    },
+    {
+       "id":12002,
+       "name":"Continental GT",
+       "price":1000000.00,
+       "brand": "Bentley",
+       "description": "Bentley di cui non si dispone di descrizione",
+       "image_name":"Continental_GT",
+       "ARFile":"AR_Continental_GT"
+    },
+]

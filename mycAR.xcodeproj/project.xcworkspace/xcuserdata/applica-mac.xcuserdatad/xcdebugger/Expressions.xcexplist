@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RestaurantListViewController.showRestaurantDetail(segue:):RestaurantListViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ExploreDataManager.fetch(locationData:):ExploreDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationDataName.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "loadPlist(file: locationDataName.rawValue)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReviewFormViewController.onSaveTapped(_sender:):ReviewFormViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CoreDataManager.shared.addReview(reviewItem)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CarDetailViewController.setupLabels():CarDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIImage(named: &quot;Enzo_Ferrari&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExploreViewController.collectionView(_:numberOfItemsInSection:):ExploreViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "manager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationItem.coordinate.getter:LocationItem.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantListViewController.collectionView(_:cellForItemAt:):RestaurantListViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MapDataManager.initialRegion(latDelta:longDelta:):MapDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.showExploreList(withSelectedCity:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationView.popToRootViewController(animated: true)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CarListViewController.collectionView(_:cellForItemAt:):CarListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIImage(named: &quot;all&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExploreViewController.collectionView(_:cellForItemAt:):ExploreViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.exploreImageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationItem.init(dict:):LocationItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict[&quot;latitude&quot;] as? Double">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataManager.addReview(_:):CoreDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Review(context: container.viewContext)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoFilterViewController.collectionView(_:cellForItemAt:):PhotoFilterViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ExploreViewController.initialize():ExploreViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedCity?.city ?? &quot;&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantDetailViewController.previewController(_:previewItemAt:):RestaurantDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.url(forResource: resourceName, withExtension: &quot;usdz&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantdetailViewController.setupLabels():RestaurantdetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MapViewController.initialize():MapViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DataManager.loadPlist(file:):DataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.path(forResource: name, ofType: &quot;plist&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "FileManager.default.contents(atPath: path)">
+            </PersistentString>
+            <PersistentString
+               value = "PropertyListSerialization.propertyList(from: itemsData, format: nil)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
