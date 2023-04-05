@@ -12,7 +12,7 @@
         <!--Car Detail View Controller-->
         <scene sceneID="EVH-qe-Ai0">
             <objects>
-                <tableViewController id="gUI-DA-nYm" customClass="CarDetailViewController" customModule="letsEat" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="gUI-DA-nYm" customClass="CarDetailViewController" customModule="mycAR" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="Ofj-pv-Ill">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -239,7 +239,7 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pgj-Bj-2jp" customClass="RatingsView" customModule="letsEat" customModuleProvider="target">
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pgj-Bj-2jp" customClass="RatingsView" customModule="mycAR" customModuleProvider="target">
                                                     <rect key="frame" x="151" y="43" width="205" height="34"/>
                                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <constraints>
@@ -344,13 +344,13 @@
         <!--Reviews View Controller-->
         <scene sceneID="s68-WA-D2y">
             <objects>
-                <viewController id="I7Z-yA-lrD" customClass="ReviewsViewController" customModule="letsEat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="I7Z-yA-lrD" customClass="ReviewsViewController" customModule="mycAR" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="b2e-3Y-CNB">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="214"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="214"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="G3d-i3-aYj">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="214"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="214"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="n1F-7S-O8T">
                                     <size key="itemSize" width="50" height="50"/>
@@ -359,8 +359,8 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="reviewCell" id="0gs-9C-p7g" customClass="ReviewCell" customModule="letsEat" customModuleProvider="target">
-                                        <rect key="frame" x="125" y="0.0" width="350" height="208"/>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="reviewCell" id="0gs-9C-p7g" customClass="ReviewCell" customModule="mycAR" customModuleProvider="target">
+                                        <rect key="frame" x="12.666666666666666" y="0.0" width="350" height="208"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="0.0" y="0.0" width="350" height="208"/>
@@ -401,7 +401,7 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CZq-Mn-9W5" customClass="RatingsView" customModule="letsEat" customModuleProvider="target">
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CZq-Mn-9W5" customClass="RatingsView" customModule="mycAR" customModuleProvider="target">
                                                     <rect key="frame" x="10" y="25" width="117" height="25"/>
                                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <constraints>
@@ -458,14 +458,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3sv-SZ-nNp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4244" y="215"/>
-        </scene>
-        <!--PhotoFilter-->
-        <scene sceneID="10V-97-DCA">
-            <objects>
-                <viewControllerPlaceholder storyboardName="PhotoFilter" id="GBa-F2-6Oj" sceneMemberID="viewController"/>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Ocq-A6-fJz" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="5266" y="-441"/>
         </scene>
         <!--ReviewForm-->
         <scene sceneID="pbi-Kd-HH0">

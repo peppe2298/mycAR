@@ -41,7 +41,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JFR-en-3Uy" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-615" y="-41"/>
+            <point key="canvasLocation" x="-532" y="-1499"/>
         </scene>
         <!--Car List View Controller-->
         <scene sceneID="c5X-VC-hCt">
@@ -154,7 +154,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Dqo-Sp-3n7" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="317.60000000000002" y="-685.71428571428578"/>
+            <point key="canvasLocation" x="273" y="-610"/>
         </scene>
         <!--CarDetail-->
         <scene sceneID="M9c-p8-iCs">
@@ -164,7 +164,7 @@
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BRl-fl-03R" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="317" y="-41"/>
+            <point key="canvasLocation" x="946" y="-610"/>
         </scene>
         <!--Run-->
         <scene sceneID="hDQ-Hf-Thx">
@@ -181,7 +181,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="VGl-3o-g06" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1474" y="703"/>
+            <point key="canvasLocation" x="-1474" y="-4"/>
         </scene>
         <!--Explore View Controller-->
         <scene sceneID="P7W-QF-Zfj">
@@ -431,7 +431,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rB5-Hd-5gE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2388" y="-41"/>
+            <point key="canvasLocation" x="-2575" y="-783"/>
         </scene>
         <!--ReX View Controller-->
         <scene sceneID="R7m-kb-Qj6">
@@ -444,9 +444,6 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RxQ-pw-cpJ">
                                 <rect key="frame" x="0.0" y="91" width="375" height="638"/>
                                 <subviews>
-                                    <arView multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CBF-sL-179">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="638"/>
-                                    </arView>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WFF-fC-akb">
                                         <rect key="frame" x="264" y="532" width="80" height="80"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
@@ -487,6 +484,9 @@
                                             <action selector="carBackReleased:" destination="UDC-1G-teg" eventType="touchUpInside" id="0TX-KT-FOP"/>
                                         </connections>
                                     </button>
+                                    <arView multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CBF-sL-179">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="638"/>
+                                    </arView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
@@ -517,7 +517,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KC7-Vm-QLj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-615.20000000000005" y="702.70935960591135"/>
+            <point key="canvasLocation" x="-602" y="-4"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="vWY-It-Abk">
@@ -555,7 +555,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mAq-FS-89r" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1474" y="-41"/>
+            <point key="canvasLocation" x="-1474" y="-1486"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="nMI-dm-7Jk">
@@ -573,7 +573,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wzy-xT-vYm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="319" y="-1349"/>
+            <point key="canvasLocation" x="273" y="-1349"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
