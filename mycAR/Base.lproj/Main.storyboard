@@ -444,6 +444,9 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RxQ-pw-cpJ">
                                 <rect key="frame" x="0.0" y="91" width="375" height="638"/>
                                 <subviews>
+                                    <arView multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CBF-sL-179">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="638"/>
+                                    </arView>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WFF-fC-akb">
                                         <rect key="frame" x="264" y="532" width="80" height="80"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
@@ -484,9 +487,6 @@
                                             <action selector="carBackReleased:" destination="UDC-1G-teg" eventType="touchUpInside" id="0TX-KT-FOP"/>
                                         </connections>
                                     </button>
-                                    <arView multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CBF-sL-179">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="638"/>
-                                    </arView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
