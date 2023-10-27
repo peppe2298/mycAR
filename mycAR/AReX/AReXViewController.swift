@@ -14,6 +14,7 @@ class AReXViewController: UIViewController {
     var forwardTimer: Timer?
     var backTimer: Timer?
     var rightTimer: Timer?
+    
     var leftTimer: Timer?
 
     
